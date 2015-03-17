@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">AK Acronyms</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_acronymactivity">Acronyms1</string>
+    <string name="title_activity_favoriteactivity">Favorites2</string>
+    <string name="title_activity_addtodatabase">Add</string>
+    <string name="listview_text">List of Acronyms</string>
+    <string name="search_button">Search</string>
+    <string name="search_edittext">Search Results</string>
+    <string name="search_hint">Enter Acronym</string>
+    
+    <string name="addtodatabase_button">Add</string>
+    <string name="addtodatabase_textview">Added Entries</string>
+    
+    <string name="enter_acronym">Enter Acronym</string>
+    <string name="enter_value_for_acronym">Enter the value for Acronym</string>
+
+</resources>
